@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/usr/home/cjg/wallpaper/wallpapers/Etc/bane_pape.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0E0D10",
+        "foreground": "#ced9dd",
+        "cursor": "#ced9dd"
+    },
+    "colors": {
+        "color0": "#0E0D10",
+        "color1": "#BC8D70",
+        "color2": "#587891",
+        "color3": "#6891AA",
+        "color4": "#79A8C9",
+        "color5": "#A1A8A5",
+        "color6": "#D7AE91",
+        "color7": "#ced9dd",
+        "color8": "#90979a",
+        "color9": "#BC8D70",
+        "color10": "#587891",
+        "color11": "#6891AA",
+        "color12": "#79A8C9",
+        "color13": "#A1A8A5",
+        "color14": "#D7AE91",
+        "color15": "#ced9dd"
+    }
+}

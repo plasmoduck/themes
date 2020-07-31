@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/usr/home/cjg/wallpaper/wallpapers/Vibrant/shroommount.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#252528",
+        "foreground": "#c5cbdf",
+        "cursor": "#c5cbdf"
+    },
+    "colors": {
+        "color0": "#482149",
+        "color1": "#CFD958",
+        "color2": "#5D54A4",
+        "color3": "#C26298",
+        "color4": "#6DAAD9",
+        "color5": "#C6B5BE",
+        "color6": "#A2D09E",
+        "color7": "#c5cbdf",
+        "color8": "#898e9c",
+        "color9": "#CFD958",
+        "color10": "#5D54A4",
+        "color11": "#C26298",
+        "color12": "#6DAAD9",
+        "color13": "#C6B5BE",
+        "color14": "#A2D09E",
+        "color15": "#c5cbdf"
+    }
+}
